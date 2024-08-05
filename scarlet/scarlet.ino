@@ -1,6 +1,7 @@
+//Progama mucho loko que envia um sinal alto à saída 7, aguarda 5 segundos e manda um sinal baixo para a saída 7 daí repete
 void setup() {
   // put your setup code here, to run once:
-  pinMode(7,OUTPUT)
+  pinMode(7,OUTPUT);
 }
 
 void loop() {
